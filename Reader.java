@@ -26,7 +26,7 @@ public class Reader {
 		
 	}
 	
-	//method: reads everything from a file to a String[] array (takes in file name input) (returns string[])
+	//method: reads everything from a file to a String[] array (takes in file name input)
 	public void readFromFile(String name) {
 		try {
 			fileToRead = new File(name);
