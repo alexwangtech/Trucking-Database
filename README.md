@@ -7,5 +7,5 @@ Screenshots:
 ![](screenshots/pic2.png)
 ![](screenshots/pic3.png)
 ![](screenshots/pic4.png)
-![](scrrenshots/pic5.png)
+![](screenshots/pic5.png)
 ![](screenshots/pic6.png)
